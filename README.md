@@ -1,4 +1,4 @@
-eetCode
+LeetCode
 ========
 
 ### LeetCode Algorithm
