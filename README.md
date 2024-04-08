@@ -9,6 +9,8 @@ LeetCode
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)| [PHP](https://github.com/Krushwff/leetcode/tree/main/algorithms/php/1.%20Two%20Sum) |Easy|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)| [PHP](https://github.com/Krushwff/leetcode/tree/main/algorithms/php/13.%20Roman%20to%20Integer) |Easy|
+|14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/)| [PHP](https://github.com/Krushwff/leetcode/blob/main/algorithms/php/14.%20Longest%20Common%20Prefix/14.%20Longest%20Common%20Prefix.php) |Easy|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/description/)| [PHP](https://github.com/Krushwff/leetcode/blob/main/algorithms/php/58.%20Length%20of%20Last%20Word/58.%20Length%20of%20Last%20Word.php) |Easy|
 |217|[Constains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)| [PHP](https://github.com/Krushwff/leetcode/tree/main/algorithms/php/217.%20Constains%20Duplicate) |Easy|
 |1108|[Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/description/)| [PHP](https://github.com/Krushwff/leetcode/tree/main/algorithms/php/1108.%20Defanging%20an%20IP%20Address) |Easy|
 |1512|[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/description/)| [PHP](https://github.com/Krushwff/leetcode/tree/main/algorithms/php/1512.%20Number%20of%20Good%20Pairs) |Easy|
