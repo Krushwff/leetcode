@@ -39,3 +39,7 @@ LeetCode
 |2824|[Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/)| [PHP](https://github.com/Krushwff/leetcode/blob/main/algorithms/php/2824.%20Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target/2824.%20Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target.php) |Easy|
 |2894|[Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/)| [PHP](https://github.com/Krushwff/leetcode/blob/main/algorithms/php/2894.%20Divisible%20and%20Non-divisible%20Sums%20Difference/2894.%20Divisible%20and%20Non-divisible%20Sums%20Difference.php) |Easy|
 |2942|[Find Words Containing Character](https://leetcode.com/problems/find-words-containing-character/description/)| [PHP](https://github.com/Krushwff/leetcode/blob/main/algorithms/php/2942.%20Find%20Words%20Containing%20Character/2942.%20Find%20Words%20Containing%20Character.php) |Easy|
+
+### Algorithm SQL
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
